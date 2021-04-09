@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhijeet Chakraborty
+- 👋 Hi, I’m Abhijeet
 - 👀 I’m interested in solving complex problems using simple code
 - 🌱 I’m currently working at HP 
 - 💞️ I’m looking to collaborate on open source software
